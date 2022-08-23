@@ -1,0 +1,29 @@
+Root Folder
+    CSS Folder
+        stylecss(MPF.css, Position.css, FlexBox.css)
+    js
+        app.js
+    index.html
+
+==============================================
+    Redo Detroix using Position and Flexbox.
+
+No float or flexbox in position.
+No position or float inside flexbox.
+
+You should have 3 different css sheets.
+mpf.css
+flexbox.css
+position.css
+
+
+
+
+
+.news-list {
+    position: relative;
+    display: inline;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
